@@ -1,3 +1,3 @@
 # AutoClick
 
-Script para gera clique automático do mouse
+Script para clique automático do mouse
